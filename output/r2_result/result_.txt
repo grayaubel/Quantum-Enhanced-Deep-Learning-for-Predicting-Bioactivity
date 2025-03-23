@@ -1,0 +1,1 @@
+Epoch	Time(sec)	Loss_val	Loss_train	R2_val	R2_train
